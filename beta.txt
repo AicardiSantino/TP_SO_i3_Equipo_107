@@ -35,3 +35,32 @@ Adaptador de Ethernet Conexi√≥n de red Bluetooth:
 
    Estado de los medios. . . . . . . . . . . : medios desconectados
    Sufijo DNS espec√≠fico para la conexi√≥n. . :
+
+Eric Quispe 17:44
+
+Configuraci¢n IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS espec°fico para la conexi¢n. . : 
+   V°nculo: direcci¢n IPv6 local. . . : fe80::2019:e24:f90f:a23e%15
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.1.8
+   M†scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::1%15
+                                       192.168.1.1
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS espec°fico para la conexi¢n. . : 
+   V°nculo: direcci¢n IPv6 local. . . : fe80::ca:a33d:2da5:8a89%8
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M†scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de t£nel Teredo Tunneling Pseudo-Interface:
+
+   Sufijo DNS espec°fico para la conexi¢n. . : 
+   Direcci¢n IPv6 . . . . . . . . . . : 2001:0:14c9:cd04:285e:985:418f:4f7c
+   V°nculo: direcci¢n IPv6 local. . . : fe80::285e:985:418f:4f7c%10
+   Puerta de enlace predeterminada . . . . . : ::
