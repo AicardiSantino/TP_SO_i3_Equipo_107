@@ -1,0 +1,72 @@
+Nombre de host:                            DESKTOP-DDD5CHM
+Nombre del sistema operativo:              Microsoft Windows 11 Home
+Versión del sistema operativo:             10.0.26200 N/D Compilación 26200
+Fabricante del sistema operativo:          Microsoft Corporation
+Configuración del sistema operativo:       Estación de trabajo independiente
+Tipo de compilación del sistema operativo: Multiprocessor Free
+Propietario registrado:                    ACER
+Organización registrada:                   N/D
+Id. del producto:                          00326-10000-00000-AA954
+Fecha de instalación original:             31/12/2025, 08:08:09
+Tiempo de arranque del sistema:            11/6/2026, 08:30:26
+Fabricante del sistema:                    Acer
+Modelo del sistema:                        Aspire A325-42
+Tipo de sistema:                           x64-based PC
+Procesadores:                              1 Procesadores instalados.
+                                           [01]: AMD64 Family 25 Model 80 Stepping 0 AuthenticAMD ~1890 Mhz
+Versión del BIOS:                          American Megatrends International, LLC. ACER P21-A7, 17/10/2024
+Directorio de Windows:                     C:\WINDOWS
+Directorio de sistema:                     C:\WINDOWS\system32
+Dispositivo de arranque:                   \Device\HarddiskVolume1
+Configuración regional del sistema:        es-mx;Español (México)
+Idioma de entrada:                         en-us;Inglés (Estados Unidos)
+Zona horaria:                              (UTC-03:00) Ciudad de Buenos Aires
+Memoria física total:                      32.159 MB
+Memoria física disponible:                 22.843 MB
+Memoria virtual: tamaño máximo:            34.207 MB
+Memoria virtual: disponible:               23.780 MB
+Memoria virtual: en uso:                   10.427 MB
+Ubicaciones de archivos de página:         C:\pagefile.sys
+Dominio:                                   WORKGROUP
+Servidor de inicio de sesión:              \\DESKTOP-DDD5CHM
+Revisiones:                                4 revisión(es) instaladas.
+                                           [01]: KB5087051
+                                           [02]: KB5054156
+                                           [03]: KB5094126
+                                           [04]: KB5094135
+Tarjetas de red:                           3 Tarjetas de interfaz de red instaladas.
+                                           [01]: Realtek 8852BE Wireless LAN WiFi 6 PCI-E NIC
+                                                 Nombre de conexión: Wi-Fi 2
+                                                 DHCP habilitado:    Sí
+                                                 Servidor DHCP:      192.168.1.1
+                                                 Direcciones IP
+                                                 [01]: 192.168.1.37
+                                                 [02]: fe80::c515:7615:e2e2:84f8
+                                                 [03]: 2802:8010:7122:1e01:f552:2908:f8e8:3eaf
+                                                 [04]: 2802:8010:7122:1e01:efdb:5ab:5054:21da
+                                           [02]: Bluetooth Device (Personal Area Network)
+                                                 Nombre de conexión: Conexión de red Bluetooth
+                                                 Estado:             Medios desconectados
+                                           [03]: VirtualBox Host-Only Ethernet Adapter
+                                                 Nombre de conexión: Ethernet
+                                                 DHCP habilitado:    No
+                                                 Direcciones IP
+                                                 [01]: 192.168.56.1
+                                                 [02]: fe80::896e:eb30:2eb6:d1a7
+Seguridad basada en virtualización:        Estado: En ejecución
+                                           Propiedades de seguridad requeridas:
+                                                 Compatibilidad con la virtualización base
+                                           Propiedades de seguridad disponibles:
+                                                 Compatibilidad con la virtualización base
+                                                 Protección de DMA
+                                                 Código UEFI de solo lectura
+                                                 SMM Security Mitigations 1.0
+                                                 Control de ejecución basado en el modo
+                                           Services Configured:
+                                                 Integridad del código reforzada por el hipervisor
+                                           Services Running:
+                                                 Integridad del código reforzada por el hipervisor
+                                           App Control for Business policy: Forzado
+                                           App Control for Business user mode policy: Forzado
+                                           Características de seguridad habilitadas:
+Requisitos Hyper-V:                        Se detectó un hipervisor. No se mostrarán las características necesarias para Hyper-V.
