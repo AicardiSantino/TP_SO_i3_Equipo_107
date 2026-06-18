@@ -1,0 +1,37 @@
+Santino Aicardi 10:58
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::896e:eb30:2eb6:d1a7%4
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 8:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 11:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Wi-Fi 2:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : 2802:8010:7122:1e01:efdb:5ab:5054:21da
+   Dirección IPv6 temporal. . . . . . : 2802:8010:7122:1e01:f552:2908:f8e8:3eaf
+   Vínculo: dirección IPv6 local. . . : fe80::c515:7615:e2e2:84f8%11
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.1.37
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::fa5b:3bff:fe18:1890%11
+                                       192.168.1.1
+
+Adaptador de Ethernet Conexión de red Bluetooth:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
