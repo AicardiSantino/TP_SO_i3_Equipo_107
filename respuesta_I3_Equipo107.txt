@@ -1,0 +1,7 @@
+beta:
+a - queda con todos los datos de alfa, beta y gamma en datos.txt, los archivos cpu.txt de alfa, beta y gamma y el archivo beta.txt con la informacion de los 3
+b - si, porque al hacer merge se integraron todas las modificaciones de las otras ramas
+c -: 
+-git checkout main 
+-git merge Quispe
+-git push origin main
