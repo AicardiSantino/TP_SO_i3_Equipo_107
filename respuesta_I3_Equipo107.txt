@@ -5,3 +5,18 @@ c -:
 -git checkout main 
 -git merge Quispe
 -git push origin main
+
+Gamma:
+d - Si, siempre que se sincronicen después del merge
+e - No tuvimos ningún problema a la hora de hcaer el merge
+f - :
+- git pull origin main 
+- git fetch
+- git checkout -b Aicardi origin/Aicardi
+- git pull origin Aicardi
+- nano beta.txt
+- ipconfig >> beta.txt
+- git status
+- git add beta.txt
+- git commit -m "GammaModificabeta.txt"
+- git push origin Aicardi
