@@ -20,3 +20,13 @@ f - :
 - git add beta.txt
 - git commit -m "GammaModificabeta.txt"
 - git push origin Aicardi
+
+G) 
+ALFA:
+git checkout aicardi
+git fetch 
+ipconfig >> beta.txt
+git add.
+git commit -m "alfa modifica beta"
+git push 
+
